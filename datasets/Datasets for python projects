@@ -1,9 +1,0 @@
-
-EU_countries dataset is a dataset containing different metrics of eu member states. Part of the project was to create a group by function
-without using the pandas library and plot the given data in a pie chart (yes pie charts are awful but that was part of the project
-and had i been allowed to i would have plotted it as a bar cahrt :) )
-
-heatrowdata.csv is a file I was given to work with and the first thing you will notice is that... well... it isnt a propper csv file!
-Whomever created this abomination of data formatting made life dificult but it was an interesting problem as sometimes you are given data 
-that isnt in the correct format and you have to convert it to a much more usable format. Which in this case means making it an actual csv
-file!
